@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Anonymous_Chats",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
-  },
-  {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created a real-time interaction app designed to prioritize user privacy while enabling seamless communication and data exchange.",
+    url: "https://github.com/avi074/Anonymous_Chats",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/avi074/myPortfolio",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Youtube-Clone",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed a YouTube clone incorporating key features like videoes watching, comment, user & channel management etc. providing a seamless user experience.",
+    url: "https://github.com/avi074/yt-clone",
+  },
+  {
+    title: "Task_Manager",
+    description:
+      "Developed a task management app that allows users to add, search, filter, update, and delete tasks, with data persisted in local storage for seamless experience.",
+    url: "https://github.com/avi074/Task_Manager",
   },
 ];
 

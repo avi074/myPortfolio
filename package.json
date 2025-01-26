@@ -4,6 +4,7 @@
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
   "homepage": "https://avi074.github.io/myPortfolio",
+  "keywords": ["Avinash Gautam", "Portfolio", "Avinash", "Gautam"],
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
